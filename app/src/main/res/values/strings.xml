@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoApp</string>
+
+    <string name="button_text">Text</string>
+</resources>
